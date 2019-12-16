@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/abd-demo/static/css/main.d1b05096.chunk.css",
+    "main.js": "/abd-demo/static/js/main.ee900056.chunk.js",
+    "main.js.map": "/abd-demo/static/js/main.ee900056.chunk.js.map",
+    "runtime-main.js": "/abd-demo/static/js/runtime-main.101ea173.js",
+    "runtime-main.js.map": "/abd-demo/static/js/runtime-main.101ea173.js.map",
+    "static/css/2.210db8d4.chunk.css": "/abd-demo/static/css/2.210db8d4.chunk.css",
+    "static/js/2.63851869.chunk.js": "/abd-demo/static/js/2.63851869.chunk.js",
+    "static/js/2.63851869.chunk.js.map": "/abd-demo/static/js/2.63851869.chunk.js.map",
+    "index.html": "/abd-demo/index.html",
+    "precache-manifest.ae4d805470cabb1c125605fc2cbb2144.js": "/abd-demo/precache-manifest.ae4d805470cabb1c125605fc2cbb2144.js",
+    "service-worker.js": "/abd-demo/service-worker.js",
+    "static/css/2.210db8d4.chunk.css.map": "/abd-demo/static/css/2.210db8d4.chunk.css.map",
+    "static/css/main.d1b05096.chunk.css.map": "/abd-demo/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.63851869.chunk.js.LICENSE": "/abd-demo/static/js/2.63851869.chunk.js.LICENSE",
+    "static/media/index.less": "/abd-demo/static/media/index.d012eece.less"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.101ea173.js",
+    "static/css/2.210db8d4.chunk.css",
+    "static/js/2.63851869.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.ee900056.chunk.js"
+  ]
+}
